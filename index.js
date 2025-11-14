@@ -6,3 +6,10 @@ function primeOrNot(num) {
     return true;
 }
 
+function evenOrOdd(num) {
+    if (num % 2 === 0) {
+        return true;
+    }
+    return false;
+
+}
